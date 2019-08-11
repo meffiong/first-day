@@ -1,4 +1,5 @@
 import React from 'react';
+import School from './School'
 import './App.css';
 
 function App() {
